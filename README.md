@@ -1,4 +1,4 @@
-This is a Wordpress theme of AMGE Lyon website : http://amge-lyon.com/
+This is the Wordpress theme used in AMGE Lyon website : http://amge-lyon.com/
 
 Created by :
 
